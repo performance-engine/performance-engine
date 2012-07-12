@@ -1,4 +1,4 @@
-performance-engine
+Performance Engine
 ==================
 
-Game backend engine
+Game backend engine based on Symfony2 framework
