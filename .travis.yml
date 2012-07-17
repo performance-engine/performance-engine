@@ -1,3 +1,5 @@
+env: SYMFONY_ENV=dev
+
 language: php
 
 php:
