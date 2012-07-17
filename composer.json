@@ -10,6 +10,14 @@
             "homepage": "https://rodchyn.github.com/"
         }
     ],
+    {
+        "repositories": [
+            {
+                "type": "composer",
+                "url": "http://performance-engine.github.com/"
+            }
+        ]
+    },
     "autoload": {
         "psr-0": { "": "src/" }
     },
