@@ -2,12 +2,12 @@
     "name": "performance-engine/performance-engine",
     "description": "Performance Engine game backend system",
     "keywords": ["performance-engine", "game"],
-    "homepage": "https://performance-engine.github.com/",
+    "homepage": "http://performance-engine.github.com/",
     "license": "MIT",
     "authors": [
         {
             "name": "Yura Rodchyn",
-            "homepage": "https://rodchyn.github.com/"
+            "homepage": "http://rodchyn.github.com/"
         }
     ],
     "repositories": [
