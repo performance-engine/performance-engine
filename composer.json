@@ -1,6 +1,6 @@
 {
-    "name": "symfony/framework-standard-edition",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "name": "performance-engine/performance-engine",
+    "description": "Performance Engine game backend system",
     "autoload": {
         "psr-0": { "": "src/" }
     },
