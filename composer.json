@@ -33,7 +33,7 @@
         "sensio/generator-bundle": "dev-master",
         "jms/security-extra-bundle": "1.1.*",
         "jms/di-extra-bundle": "1.0.*",
-        
+        "jms/aop-bundle": "*",
         "jmikola/wildcard-event-dispatcher-bundle": "dev-master"
     },
     "scripts": {
