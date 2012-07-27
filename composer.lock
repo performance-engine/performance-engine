@@ -1,5 +1,5 @@
 {
-    "hash": "d82301dc57fea06fdc896c787244740a",
+    "hash": "e77243260be5a9082217ac3bc818fbd0",
     "packages": [
         {
             "package": "doctrine/common",
@@ -14,12 +14,6 @@
         {
             "package": "doctrine/doctrine-bundle",
             "version": "dev-master",
-            "alias-pretty-version": "1.0.x-dev",
-            "alias-version": "1.0.9999999.9999999-dev"
-        },
-        {
-            "package": "doctrine/doctrine-bundle",
-            "version": "dev-master",
             "source-reference": "c9ea46d1f0c48bb88bb87b44214fe44e03c0c692",
             "commit-date": "1341405737"
         },
@@ -28,6 +22,16 @@
             "version": "2.2.x-dev",
             "source-reference": "5d2a3bcb3b467f41ee58575764f3ba84937f76e4",
             "commit-date": "1341676080"
+        },
+        {
+            "package": "jmikola/wildcard-event-dispatcher",
+            "version": "v1.0.0"
+        },
+        {
+            "package": "jmikola/wildcard-event-dispatcher-bundle",
+            "version": "dev-master",
+            "source-reference": "cc80962705a3d0ca680a7ad1794da6456009b7b9",
+            "commit-date": "1340659776"
         },
         {
             "package": "jms/aop-bundle",
@@ -58,8 +62,14 @@
         {
             "package": "kriswallsmith/assetic",
             "version": "dev-master",
-            "source-reference": "d6f89a3170c5280ad554347dc113eb25fdf00ad7",
-            "commit-date": "1339515714"
+            "source-reference": "c518a48ddc26af898191410cc35f7f30aaed448e",
+            "commit-date": "1343084248"
+        },
+        {
+            "package": "leek/git-debug-bundle",
+            "version": "2.0.x-dev",
+            "source-reference": "5fed3e97ce058cfc33d5268dda38c85108a5f22e",
+            "commit-date": "1335823322"
         },
         {
             "package": "monolog/monolog",
@@ -74,20 +84,8 @@
         {
             "package": "sensio/framework-extra-bundle",
             "version": "dev-master",
-            "alias-pretty-version": "2.1.x-dev",
-            "alias-version": "2.1.9999999.9999999-dev"
-        },
-        {
-            "package": "sensio/framework-extra-bundle",
-            "version": "dev-master",
             "source-reference": "e9ac8f1a911ed29e30296c7f1549f53d4c94eddf",
             "commit-date": "1342084432"
-        },
-        {
-            "package": "sensio/generator-bundle",
-            "version": "dev-master",
-            "alias-pretty-version": "2.1.x-dev",
-            "alias-version": "2.1.9999999.9999999-dev"
         },
         {
             "package": "sensio/generator-bundle",
@@ -116,8 +114,8 @@
         {
             "package": "symfony/assetic-bundle",
             "version": "dev-master",
-            "source-reference": "ed933dcfa45f00b6bc6d7727007403f3ff429e5a",
-            "commit-date": "1342126277"
+            "source-reference": "a5daf7ca4588f88105c808de9a28ba1e66bfa082",
+            "commit-date": "1343161458"
         },
         {
             "package": "symfony/monolog-bundle",
@@ -128,7 +126,7 @@
         {
             "package": "symfony/monolog-bundle",
             "version": "dev-master",
-            "source-reference": "v2.1.0-BETA3",
+            "source-reference": "v2.1.0-BETA4",
             "commit-date": "1341078487"
         },
         {
@@ -140,8 +138,8 @@
         {
             "package": "symfony/swiftmailer-bundle",
             "version": "dev-master",
-            "source-reference": "v2.1.0-BETA3",
-            "commit-date": "1341509614"
+            "source-reference": "v2.1.0-BETA4",
+            "commit-date": "1342684512"
         },
         {
             "package": "symfony/symfony",
@@ -152,8 +150,8 @@
         {
             "package": "symfony/symfony",
             "version": "dev-master",
-            "source-reference": "242a388ea44b8453de2c403fe9e9b74c01ee2112",
-            "commit-date": "1342559161"
+            "source-reference": "2aaa4ed84e56ad8e3420e696f6a42231d30bc1d2",
+            "commit-date": "1343064472"
         },
         {
             "package": "twig/extensions",
@@ -170,8 +168,8 @@
         {
             "package": "twig/twig",
             "version": "dev-master",
-            "source-reference": "d45664045194ef62573c153c424508527105041e",
-            "commit-date": "1342424564"
+            "source-reference": "657de7bdeb680815e0df95f63da9f81e1533d2ea",
+            "commit-date": "1342953178"
         }
     ],
     "packages-dev": null,
@@ -187,6 +185,7 @@
         "symfony/monolog-bundle": 20,
         "sensio/distribution-bundle": 20,
         "sensio/framework-extra-bundle": 20,
-        "sensio/generator-bundle": 20
+        "sensio/generator-bundle": 20,
+        "jmikola/wildcard-event-dispatcher-bundle": 20
     }
 }
