@@ -35,7 +35,8 @@
         "jms/di-extra-bundle": "1.0.*",
         "jms/aop-bundle": "*",
         "jmikola/wildcard-event-dispatcher-bundle": "dev-master",
-        "leek/git-debug-bundle": "*"
+        "leek/git-debug-bundle": "*",
+        "performance-engine/data-configurator-bundle": "dev-master"
     },
     "scripts": {
         "post-install-cmd": [
